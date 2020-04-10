@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # acm_developers_1
 
 First demo task for acm developers
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# first_todo_app_flutter
+A brief introduction to flutter
+>>>>>>> f16eee2136c20aa6ee62236c8acaf356b319b9dc
